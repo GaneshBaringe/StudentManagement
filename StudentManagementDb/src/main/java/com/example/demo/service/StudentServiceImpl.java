@@ -22,7 +22,8 @@ public class StudentServiceImpl implements StudentService {
 		//ss.findById(id);
 		return ss.findById(id).get();
 	}
-
+//aBcdefgh
+//ijklmn
 	@Override
 	public void deleteStudent(int id) {
 		ss.deleteById(id);
